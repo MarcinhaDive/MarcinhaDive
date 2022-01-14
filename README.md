@@ -12,7 +12,7 @@ Conhecimento nas Técnologias :
 Criadora e administradora :
 
 [![site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://dominionope.com.br/)[![site](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://dominionope.com.br/)
-[![site](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://dominionope.com.br/)[![site](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://dominionope.com.br/)
+[![site](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://dominionope.com.br/)[![site](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://dominionope.com.br/)
 
 
 
